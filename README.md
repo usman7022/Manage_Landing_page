@@ -1,5 +1,8 @@
-Manage
-Project Overview
+# My Web Project
+
+## Manage_Landing_Page
+
+## Project Overview
 Manage is a simple web application built using React.js and basic CSS. This project showcases various web technologies and features a user-friendly interface that demonstrates key functionalities.
 ![project-ss](https://github.com/user-attachments/assets/d5256954-ca9e-43eb-9ac3-6e1cc9d68a03)
 
